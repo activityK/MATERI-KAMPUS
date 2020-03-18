@@ -14,23 +14,15 @@ Enrolment Key =  2020
 
 // Rekayasa Perangkat Lunak	Zaeniah
 password "RPL2020"
+https://learning.utmmataram.ac.id/mod/assign/view.php?id=3981
+Tugas 1 RPL
+Sebutkan 7 kategori perangkat lunak secara umum dilengkapi dengan penjelasan dan contoh masing – masing kategori
+Carilah satu buah kasus tentang pengembangan perangkat lunak kemudian tentukan perangkat lunak tersebut termasuk kedalam kategori apa? dan Jelaskan alasannya? Serta coba kalian tentukan software dan hardware apa saja yang dibutuhkan untuk mengembangkan perangkat lunak dalam kasus yang dipilih.
 
 
 // MK Entrepreneurship II.	Bu Eluiz
 https://learning.utmmataram.ac.id/course/view.php?id=434
+enrolment key= E123
+http://manajemen-ekonomi-dessy.blogspot.com/2017/10/faktor-pendorong-dan-penghambat.html
 
-Contoh Sistem Informasi: E Learning, Sistem Layanan Mahasiswa, Duo Lingo, E Commerce dll.
-
-komponen input: data yang masuk atau yang di inputkan kedalam sistem.
-
-komponen model: proses yang dilakukan melibatkan kombinasi prosedur, logika dan matematika
-
-Komponen output: Hasil informasi yang berkualitas dan dokumentasi yang berguna untuk semua tingkatan manajemen
-
-Komponen teknologi: teknologi digunakan dalam menerima input, menjalankan model, menyimpan dan mengakses data, menghasilkan dan mengirimkan output
-
-Komponen kontrol: Komponen yang mengendalikan gangguan terhadap sistem informasi.
-
-Komponen basis data: Kumpulan data yang saling berhubungan yang tersimpan di dalam komputer dengan menggunakan software database.
-
-Sistem Layanan Mahasiswa
+//
