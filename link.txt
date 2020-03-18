@@ -1,0 +1,36 @@
+// Technopreneurship 2	Erfan Wahyudi, M.Kom.
+https://learning.utmmataram.ac.id/course/view.php?id=515
+Enrolment Key =  12345
+
+
+// Analisa dan Perancangan Sistem Informasi	Juhartini, M.Kom.
+https://learning.utmmataram.ac.id/course/view.php?id=528
+Enrolment Key =  2020
+
+
+// SIM	Juhartini, M.Kom.
+https://learning.utmmataram.ac.id/course/view.php?id=525
+Enrolment Key =  2020
+
+// Rekayasa Perangkat Lunak	Zaeniah
+password "RPL2020"
+
+
+// MK Entrepreneurship II.	Bu Eluiz
+https://learning.utmmataram.ac.id/course/view.php?id=434
+
+Contoh Sistem Informasi: E Learning, Sistem Layanan Mahasiswa, Duo Lingo, E Commerce dll.
+
+komponen input: data yang masuk atau yang di inputkan kedalam sistem.
+
+komponen model: proses yang dilakukan melibatkan kombinasi prosedur, logika dan matematika
+
+Komponen output: Hasil informasi yang berkualitas dan dokumentasi yang berguna untuk semua tingkatan manajemen
+
+Komponen teknologi: teknologi digunakan dalam menerima input, menjalankan model, menyimpan dan mengakses data, menghasilkan dan mengirimkan output
+
+Komponen kontrol: Komponen yang mengendalikan gangguan terhadap sistem informasi.
+
+Komponen basis data: Kumpulan data yang saling berhubungan yang tersimpan di dalam komputer dengan menggunakan software database.
+
+Sistem Layanan Mahasiswa
